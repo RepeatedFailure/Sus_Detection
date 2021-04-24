@@ -17,4 +17,8 @@ To use:
 
 4)Copy path of weights and image/video in third cell
 
-5)Run third cell 
+5)Run third cell
+
+6) ???
+
+7) Please link my yt if you use these weights:https://youtu.be/6LYZUF-dT70  :)
